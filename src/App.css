@@ -1,0 +1,19 @@
+#site-header,
+#site-main {
+  padding: 0 4.167%;
+  margin: 0;
+}
+#site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+@media (max-width: 768px) {
+  #site-header,
+  #site-main {
+    padding: 0 1rem;
+  }
+  .toast-position {
+    padding: 8px;
+  }
+}
