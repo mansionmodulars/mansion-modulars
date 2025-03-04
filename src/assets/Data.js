@@ -102,6 +102,15 @@ export const HomePage = {
       mobileImage:
         'https://res.cloudinary.com/dpghwxqij/image/upload/c_fill,g_west,h_500,w_500/e_upscale/v1740726828/DBR_2_1_c53pjr.png',
     },
+    {
+      id: 9,
+      altText: 'MansionModulars-Project9',
+      name: 'Project9',
+      desktopImage:
+        'https://res.cloudinary.com/dpghwxqij/image/upload/c_fill,g_west,h_500,w_500/e_upscale/v1741109454/KBR_3_pqbhrs.png',
+      mobileImage:
+        'https://res.cloudinary.com/dpghwxqij/image/upload/c_fill,g_west,h_500,w_500/e_upscale/v1741109454/KBR_3_pqbhrs.png',
+    },
   ],
   Testimoials: [
     {
