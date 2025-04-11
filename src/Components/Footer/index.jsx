@@ -53,7 +53,7 @@ const Footer = () => {
               alt: 'Facebook',
             },
             {
-              href: 'https://www.instagram.com/mansionmodulars/',
+              href: 'https://www.instagram.com/mansion_modulars/',
               imgSrc: Instagram,
               alt: 'Instagram',
             },
